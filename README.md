@@ -1,7 +1,6 @@
 # Sorting Visualization
 This is a visualization of some of the sorting algorihtms using vanilla javascript. It also displays the time of executing so that the complexities can be analyzed. :sparkles: 
-/play tada
-![Screen Shot](./imag/ss.JPG)
+![Screen Shot](./img/ss.JPG)
 ## Here I have not implemented all the sorting algorithms :
 - [x] Selection Sort
 - [ ] Bubble Sort
